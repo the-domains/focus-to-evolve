@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "A 'future state' enablement company with a passion for helping partners accomplish meaningful things quickly"
-datePublished: '2016-03-29T14:50:13.515Z'
-dateModified: '2016-03-29T14:42:27.749Z'
+datePublished: '2016-03-29T21:24:19.217Z'
+dateModified: '2016-03-29T21:23:18.693Z'
 title: 'Focus To Evolve, LLC'
 author: []
 sourcePath: _posts/2016-03-24-focus-to-evolve-llc.md
