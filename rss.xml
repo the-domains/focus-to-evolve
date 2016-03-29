@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Focus To Evolve]]></title>
+        <description><![CDATA[Focus To Evolve]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 14:50:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Focus To Evolve, LLC]]></title>
+            <description><![CDATA[<article><h1>Focus To Evolve, LLC</h1><p>A 'future state' enablement company with a passion for helping partners accomplish meaningful things quickly</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03285fb-daed-46ef-870c-83382099dba2.jpg"></article>]]></description>
+            <link>undefinedfocus-to-evolve-llc/index.html</link>
+            <guid isPermaLink="false">248f6f5d-d739-46b4-a2e8-d7e52c1d7e08</guid>
+            <pubDate>Tue, 29 Mar 2016 14:50:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
